@@ -8,25 +8,56 @@ export default async function handler(request) {
   try {
     const response = await fetch('https://www.basketball-reference.com/awards/all_league.html', {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
       }
     });
 
-    const html = await response.text();
-    const $ = cheerio.load(html);
+    let html = await response.text();
 
+    // Basketball Reference hides tables in HTML comments - extract them
+    const commentPattern = /<!--\s*([\s\S]*?)\s*-->/g;
+    let match;
+    while ((match = commentPattern.exec(html)) !== null) {
+      if (match[1].includes('id="awards_all_league"') || match[1].includes('all_league')) {
+        html = html.replace(match[0], match[1]);
+      }
+    }
+
+    const $ = cheerio.load(html);
     const allNbaData = {};
 
-    // Parse the All-NBA table
-    $('#all_awards_all_league #awards_all_league tbody tr').each((i, row) => {
+    // Try multiple selector patterns
+    const selectors = [
+      '#awards_all_league tbody tr',
+      'table#awards_all_league tbody tr',
+      '#all_awards_all_league tbody tr',
+      'table.stats_table tbody tr'
+    ];
+
+    let rows = $([]);
+    for (const selector of selectors) {
+      rows = $(selector);
+      if (rows.length > 0) break;
+    }
+
+    rows.each((i, row) => {
       const $row = $(row);
-      const season = $row.find('th[data-stat="season"]').text().trim();
+      if ($row.hasClass('thead') || $row.hasClass('over_header')) return;
+
+      const seasonCell = $row.find('th[data-stat="season"], td[data-stat="season"]');
+      const season = seasonCell.text().trim();
+
+      if (!season || !season.includes('-')) return;
+
       const lg = $row.find('td[data-stat="lg_id"]').text().trim();
+      if (lg && lg !== 'NBA') return;
 
-      if (!season || lg !== 'NBA') return;
+      const teamNum = $row.find('td[data-stat="number"]').text().trim();
 
-      const team = $row.find('td[data-stat="number"]').text().trim();
-      const playerLinks = $row.find('td[data-stat="player"] a');
+      // Get all player names from the row
+      const playerCell = $row.find('td[data-stat="player"]');
+      const playerText = playerCell.text().trim();
+      const playerLinks = playerCell.find('a');
 
       const year = parseInt(season.split('-')[0]) + 1;
 
@@ -39,29 +70,39 @@ export default async function handler(request) {
         };
       }
 
-      playerLinks.each((j, link) => {
-        const playerName = $(link).text().trim();
-        const playerId = $(link).attr('href')?.match(/\/players\/\w\/(\w+)\.html/)?.[1];
+      // Parse players - they might be comma-separated or in links
+      let players = [];
+      if (playerLinks.length > 0) {
+        playerLinks.each((j, link) => {
+          players.push($(link).text().trim());
+        });
+      } else if (playerText) {
+        players = playerText.split(',').map(p => p.trim()).filter(p => p);
+      }
+
+      // Get games played if available
+      const gamesCell = $row.find('td[data-stat="g"]');
+      const gamesPlayed = parseInt(gamesCell.text().trim()) || 0;
+
+      players.forEach(playerName => {
+        if (!playerName) return;
 
         const playerData = {
           name: playerName,
-          playerId: playerId,
-          position: '',
-          team: '',
-          gamesPlayed: 0
+          gamesPlayed: gamesPlayed
         };
 
-        if (team === '1st') {
+        if (teamNum === '1st' || teamNum === '1') {
           allNbaData[year].firstTeam.push(playerData);
-        } else if (team === '2nd') {
+        } else if (teamNum === '2nd' || teamNum === '2') {
           allNbaData[year].secondTeam.push(playerData);
-        } else if (team === '3rd') {
+        } else if (teamNum === '3rd' || teamNum === '3') {
           allNbaData[year].thirdTeam.push(playerData);
         }
       });
     });
 
-    // Filter to last 50 years and sort
+    // Filter to last 50 years
     const currentYear = new Date().getFullYear();
     const startYear = currentYear - 50;
 
@@ -71,7 +112,7 @@ export default async function handler(request) {
       .filter(year => year >= startYear && year <= currentYear)
       .sort((a, b) => b - a)
       .forEach(year => {
-        if (allNbaData[year].firstTeam.length > 0) {
+        if (allNbaData[year] && allNbaData[year].firstTeam.length > 0) {
           filteredData[year] = allNbaData[year];
         }
       });
@@ -83,7 +124,7 @@ export default async function handler(request) {
       }
     });
   } catch (error) {
-    return new Response(JSON.stringify({ error: error.message }), {
+    return new Response(JSON.stringify({ error: error.message, stack: error.stack }), {
       status: 500,
       headers: { 'Content-Type': 'application/json' }
     });
