@@ -16,7 +16,7 @@
       {"name": "Jalen Brunson", "team": "New York Knicks", "gamesPlayed": 77}
     ],
     "thirdTeam": [
-      {"name": "Jaylen Brown", "team": "Boston Celtics", "gamesPlayed": 70},
+      {"name": "Domantas Sabonis", "team": "Sacramento Kings", "gamesPlayed": 82},
       {"name": "LeBron James", "team": "Los Angeles Lakers", "gamesPlayed": 71},
       {"name": "Devin Booker", "team": "Phoenix Suns", "gamesPlayed": 68},
       {"name": "Tyrese Haliburton", "team": "Indiana Pacers", "gamesPlayed": 69},
@@ -36,14 +36,14 @@
       {"name": "Jimmy Butler", "team": "Miami Heat", "gamesPlayed": 64},
       {"name": "Jaylen Brown", "team": "Boston Celtics", "gamesPlayed": 67},
       {"name": "Donovan Mitchell", "team": "Cleveland Cavaliers", "gamesPlayed": 68},
-      {"name": "De'Aaron Fox", "team": "Sacramento Kings", "gamesPlayed": 73},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 56},
       {"name": "Nikola Jokic", "team": "Denver Nuggets", "gamesPlayed": 69}
     ],
     "thirdTeam": [
       {"name": "Julius Randle", "team": "New York Knicks", "gamesPlayed": 77},
       {"name": "LeBron James", "team": "Los Angeles Lakers", "gamesPlayed": 55},
       {"name": "Damian Lillard", "team": "Portland Trail Blazers", "gamesPlayed": 58},
-      {"name": "Ja Morant", "team": "Memphis Grizzlies", "gamesPlayed": 61},
+      {"name": "De'Aaron Fox", "team": "Sacramento Kings", "gamesPlayed": 73},
       {"name": "Domantas Sabonis", "team": "Sacramento Kings", "gamesPlayed": 79}
     ]
   },
