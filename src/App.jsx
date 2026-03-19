@@ -7,8 +7,11 @@ const LOW_GAMES_THRESHOLD = 65
 function App() {
   const [activeTab, setActiveTab] = useState('all-nba')
   const [selectedAward, setSelectedAward] = useState('mvp')
+  const [sortOrder, setSortOrder] = useState('desc')
 
-  const years = Object.keys(allNbaTeams).map(Number).sort((a, b) => b - a)
+  const years = Object.keys(allNbaTeams).map(Number).sort((a, b) =>
+    sortOrder === 'desc' ? b - a : a - b
+  )
 
   const tabs = [
     { id: 'all-nba', label: 'All-NBA Teams' },
@@ -21,7 +24,6 @@ function App() {
     { id: 'roy', label: 'ROY' },
     { id: 'sixthMan', label: '6MOY' },
     { id: 'mip', label: 'MIP' },
-    { id: 'finalsMvp', label: 'Finals MVP' },
   ]
 
   return (
@@ -68,6 +70,14 @@ function App() {
       <main className="max-w-7xl mx-auto px-4 py-8">
         {activeTab === 'all-nba' && (
           <div className="space-y-6">
+            <div className="flex justify-end">
+              <button
+                onClick={() => setSortOrder(sortOrder === 'desc' ? 'asc' : 'desc')}
+                className="px-4 py-2 bg-gray-800 text-gray-300 rounded-lg hover:bg-gray-700 transition-colors flex items-center gap-2"
+              >
+                {sortOrder === 'desc' ? '↓ Newest First' : '↑ Oldest First'}
+              </button>
+            </div>
             {years.map((year) => (
               <SeasonRow key={year} year={year} data={allNbaTeams[year]} />
             ))}
@@ -77,7 +87,7 @@ function App() {
         {activeTab === 'awards' && (
           <div>
             {/* Award Category Selector */}
-            <div className="mb-8 flex flex-wrap gap-2 sticky top-16 bg-gray-900 py-4 z-10">
+            <div className="mb-8 flex flex-wrap items-center gap-2 sticky top-16 bg-gray-900 py-4 z-10">
               {awardCategories.map((award) => (
                 <button
                   key={award.id}
@@ -91,10 +101,17 @@ function App() {
                   {award.label}
                 </button>
               ))}
+              <div className="flex-1"></div>
+              <button
+                onClick={() => setSortOrder(sortOrder === 'desc' ? 'asc' : 'desc')}
+                className="px-4 py-2 bg-gray-800 text-gray-300 rounded-lg hover:bg-gray-700 transition-colors flex items-center gap-2"
+              >
+                {sortOrder === 'desc' ? '↓ Newest First' : '↑ Oldest First'}
+              </button>
             </div>
 
             {/* Award Display */}
-            <AwardTable award={awards[selectedAward]} />
+            <AwardTable award={awards[selectedAward]} sortOrder={sortOrder} />
           </div>
         )}
       </main>
@@ -174,10 +191,12 @@ function SeasonRow({ year, data }) {
   )
 }
 
-function AwardTable({ award }) {
+function AwardTable({ award, sortOrder }) {
   if (!award || !award.winners) return null
 
-  const winners = [...award.winners].reverse()
+  const winners = sortOrder === 'desc'
+    ? [...award.winners].reverse()
+    : [...award.winners]
 
   return (
     <div className="bg-gray-800 rounded-xl overflow-hidden shadow-lg">
