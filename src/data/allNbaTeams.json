@@ -1,0 +1,1104 @@
+{
+  "2024": {
+    "season": "2023-24",
+    "firstTeam": [
+      {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "gamesPlayed": 73},
+      {"name": "Luka Doncic", "team": "Dallas Mavericks", "gamesPlayed": 70},
+      {"name": "Shai Gilgeous-Alexander", "team": "Oklahoma City Thunder", "gamesPlayed": 75},
+      {"name": "Jayson Tatum", "team": "Boston Celtics", "gamesPlayed": 74},
+      {"name": "Nikola Jokic", "team": "Denver Nuggets", "gamesPlayed": 79}
+    ],
+    "secondTeam": [
+      {"name": "Kevin Durant", "team": "Phoenix Suns", "gamesPlayed": 75},
+      {"name": "Anthony Davis", "team": "Los Angeles Lakers", "gamesPlayed": 76},
+      {"name": "Anthony Edwards", "team": "Minnesota Timberwolves", "gamesPlayed": 79},
+      {"name": "Kawhi Leonard", "team": "Los Angeles Clippers", "gamesPlayed": 68},
+      {"name": "Jalen Brunson", "team": "New York Knicks", "gamesPlayed": 77}
+    ],
+    "thirdTeam": [
+      {"name": "Jaylen Brown", "team": "Boston Celtics", "gamesPlayed": 70},
+      {"name": "LeBron James", "team": "Los Angeles Lakers", "gamesPlayed": 71},
+      {"name": "Devin Booker", "team": "Phoenix Suns", "gamesPlayed": 68},
+      {"name": "Tyrese Haliburton", "team": "Indiana Pacers", "gamesPlayed": 69},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 74}
+    ]
+  },
+  "2023": {
+    "season": "2022-23",
+    "firstTeam": [
+      {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "gamesPlayed": 63},
+      {"name": "Jayson Tatum", "team": "Boston Celtics", "gamesPlayed": 74},
+      {"name": "Luka Doncic", "team": "Dallas Mavericks", "gamesPlayed": 66},
+      {"name": "Shai Gilgeous-Alexander", "team": "Oklahoma City Thunder", "gamesPlayed": 68},
+      {"name": "Joel Embiid", "team": "Philadelphia 76ers", "gamesPlayed": 66}
+    ],
+    "secondTeam": [
+      {"name": "Jimmy Butler", "team": "Miami Heat", "gamesPlayed": 64},
+      {"name": "Jaylen Brown", "team": "Boston Celtics", "gamesPlayed": 67},
+      {"name": "Donovan Mitchell", "team": "Cleveland Cavaliers", "gamesPlayed": 68},
+      {"name": "De'Aaron Fox", "team": "Sacramento Kings", "gamesPlayed": 73},
+      {"name": "Nikola Jokic", "team": "Denver Nuggets", "gamesPlayed": 69}
+    ],
+    "thirdTeam": [
+      {"name": "Julius Randle", "team": "New York Knicks", "gamesPlayed": 77},
+      {"name": "LeBron James", "team": "Los Angeles Lakers", "gamesPlayed": 55},
+      {"name": "Damian Lillard", "team": "Portland Trail Blazers", "gamesPlayed": 58},
+      {"name": "Ja Morant", "team": "Memphis Grizzlies", "gamesPlayed": 61},
+      {"name": "Domantas Sabonis", "team": "Sacramento Kings", "gamesPlayed": 79}
+    ]
+  },
+  "2022": {
+    "season": "2021-22",
+    "firstTeam": [
+      {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "gamesPlayed": 67},
+      {"name": "Jayson Tatum", "team": "Boston Celtics", "gamesPlayed": 76},
+      {"name": "Luka Doncic", "team": "Dallas Mavericks", "gamesPlayed": 65},
+      {"name": "Devin Booker", "team": "Phoenix Suns", "gamesPlayed": 68},
+      {"name": "Nikola Jokic", "team": "Denver Nuggets", "gamesPlayed": 74}
+    ],
+    "secondTeam": [
+      {"name": "Kevin Durant", "team": "Brooklyn Nets", "gamesPlayed": 55},
+      {"name": "Joel Embiid", "team": "Philadelphia 76ers", "gamesPlayed": 68},
+      {"name": "Ja Morant", "team": "Memphis Grizzlies", "gamesPlayed": 57},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 64},
+      {"name": "DeMar DeRozan", "team": "Chicago Bulls", "gamesPlayed": 76}
+    ],
+    "thirdTeam": [
+      {"name": "LeBron James", "team": "Los Angeles Lakers", "gamesPlayed": 56},
+      {"name": "Pascal Siakam", "team": "Toronto Raptors", "gamesPlayed": 68},
+      {"name": "Trae Young", "team": "Atlanta Hawks", "gamesPlayed": 76},
+      {"name": "Chris Paul", "team": "Phoenix Suns", "gamesPlayed": 65},
+      {"name": "Karl-Anthony Towns", "team": "Minnesota Timberwolves", "gamesPlayed": 74}
+    ]
+  },
+  "2021": {
+    "season": "2020-21",
+    "firstTeam": [
+      {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "gamesPlayed": 61},
+      {"name": "Kawhi Leonard", "team": "Los Angeles Clippers", "gamesPlayed": 52},
+      {"name": "Luka Doncic", "team": "Dallas Mavericks", "gamesPlayed": 66},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 63},
+      {"name": "Nikola Jokic", "team": "Denver Nuggets", "gamesPlayed": 72}
+    ],
+    "secondTeam": [
+      {"name": "LeBron James", "team": "Los Angeles Lakers", "gamesPlayed": 45},
+      {"name": "Julius Randle", "team": "New York Knicks", "gamesPlayed": 71},
+      {"name": "Chris Paul", "team": "Phoenix Suns", "gamesPlayed": 70},
+      {"name": "Damian Lillard", "team": "Portland Trail Blazers", "gamesPlayed": 67},
+      {"name": "Joel Embiid", "team": "Philadelphia 76ers", "gamesPlayed": 51}
+    ],
+    "thirdTeam": [
+      {"name": "Jimmy Butler", "team": "Miami Heat", "gamesPlayed": 52},
+      {"name": "Paul George", "team": "Los Angeles Clippers", "gamesPlayed": 54},
+      {"name": "Kyrie Irving", "team": "Brooklyn Nets", "gamesPlayed": 54},
+      {"name": "Bradley Beal", "team": "Washington Wizards", "gamesPlayed": 60},
+      {"name": "Rudy Gobert", "team": "Utah Jazz", "gamesPlayed": 71}
+    ]
+  },
+  "2020": {
+    "season": "2019-20",
+    "firstTeam": [
+      {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "gamesPlayed": 63},
+      {"name": "LeBron James", "team": "Los Angeles Lakers", "gamesPlayed": 67},
+      {"name": "Luka Doncic", "team": "Dallas Mavericks", "gamesPlayed": 61},
+      {"name": "James Harden", "team": "Houston Rockets", "gamesPlayed": 68},
+      {"name": "Anthony Davis", "team": "Los Angeles Lakers", "gamesPlayed": 62}
+    ],
+    "secondTeam": [
+      {"name": "Kawhi Leonard", "team": "Los Angeles Clippers", "gamesPlayed": 57},
+      {"name": "Pascal Siakam", "team": "Toronto Raptors", "gamesPlayed": 60},
+      {"name": "Chris Paul", "team": "Oklahoma City Thunder", "gamesPlayed": 70},
+      {"name": "Damian Lillard", "team": "Portland Trail Blazers", "gamesPlayed": 66},
+      {"name": "Nikola Jokic", "team": "Denver Nuggets", "gamesPlayed": 73}
+    ],
+    "thirdTeam": [
+      {"name": "Jayson Tatum", "team": "Boston Celtics", "gamesPlayed": 66},
+      {"name": "Jimmy Butler", "team": "Miami Heat", "gamesPlayed": 58},
+      {"name": "Ben Simmons", "team": "Philadelphia 76ers", "gamesPlayed": 57},
+      {"name": "Russell Westbrook", "team": "Houston Rockets", "gamesPlayed": 57},
+      {"name": "Rudy Gobert", "team": "Utah Jazz", "gamesPlayed": 68}
+    ]
+  },
+  "2019": {
+    "season": "2018-19",
+    "firstTeam": [
+      {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "gamesPlayed": 72},
+      {"name": "Paul George", "team": "Oklahoma City Thunder", "gamesPlayed": 77},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 69},
+      {"name": "James Harden", "team": "Houston Rockets", "gamesPlayed": 78},
+      {"name": "Nikola Jokic", "team": "Denver Nuggets", "gamesPlayed": 80}
+    ],
+    "secondTeam": [
+      {"name": "Kevin Durant", "team": "Golden State Warriors", "gamesPlayed": 78},
+      {"name": "Kawhi Leonard", "team": "Toronto Raptors", "gamesPlayed": 60},
+      {"name": "Damian Lillard", "team": "Portland Trail Blazers", "gamesPlayed": 80},
+      {"name": "Kyrie Irving", "team": "Boston Celtics", "gamesPlayed": 67},
+      {"name": "Joel Embiid", "team": "Philadelphia 76ers", "gamesPlayed": 64}
+    ],
+    "thirdTeam": [
+      {"name": "LeBron James", "team": "Los Angeles Lakers", "gamesPlayed": 55},
+      {"name": "Blake Griffin", "team": "Detroit Pistons", "gamesPlayed": 75},
+      {"name": "Russell Westbrook", "team": "Oklahoma City Thunder", "gamesPlayed": 73},
+      {"name": "Kemba Walker", "team": "Charlotte Hornets", "gamesPlayed": 82},
+      {"name": "Rudy Gobert", "team": "Utah Jazz", "gamesPlayed": 81}
+    ]
+  },
+  "2018": {
+    "season": "2017-18",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 82},
+      {"name": "Kevin Durant", "team": "Golden State Warriors", "gamesPlayed": 68},
+      {"name": "James Harden", "team": "Houston Rockets", "gamesPlayed": 72},
+      {"name": "Damian Lillard", "team": "Portland Trail Blazers", "gamesPlayed": 73},
+      {"name": "Anthony Davis", "team": "New Orleans Pelicans", "gamesPlayed": 75}
+    ],
+    "secondTeam": [
+      {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "gamesPlayed": 75},
+      {"name": "LaMarcus Aldridge", "team": "San Antonio Spurs", "gamesPlayed": 75},
+      {"name": "Russell Westbrook", "team": "Oklahoma City Thunder", "gamesPlayed": 80},
+      {"name": "DeMar DeRozan", "team": "Toronto Raptors", "gamesPlayed": 80},
+      {"name": "Joel Embiid", "team": "Philadelphia 76ers", "gamesPlayed": 63}
+    ],
+    "thirdTeam": [
+      {"name": "Paul George", "team": "Oklahoma City Thunder", "gamesPlayed": 79},
+      {"name": "Jimmy Butler", "team": "Minnesota Timberwolves", "gamesPlayed": 59},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 51},
+      {"name": "Victor Oladipo", "team": "Indiana Pacers", "gamesPlayed": 75},
+      {"name": "Karl-Anthony Towns", "team": "Minnesota Timberwolves", "gamesPlayed": 82}
+    ]
+  },
+  "2017": {
+    "season": "2016-17",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 74},
+      {"name": "Kawhi Leonard", "team": "San Antonio Spurs", "gamesPlayed": 74},
+      {"name": "Russell Westbrook", "team": "Oklahoma City Thunder", "gamesPlayed": 81},
+      {"name": "James Harden", "team": "Houston Rockets", "gamesPlayed": 81},
+      {"name": "Anthony Davis", "team": "New Orleans Pelicans", "gamesPlayed": 75}
+    ],
+    "secondTeam": [
+      {"name": "Giannis Antetokounmpo", "team": "Milwaukee Bucks", "gamesPlayed": 80},
+      {"name": "Kevin Durant", "team": "Golden State Warriors", "gamesPlayed": 62},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 79},
+      {"name": "Isaiah Thomas", "team": "Boston Celtics", "gamesPlayed": 76},
+      {"name": "Rudy Gobert", "team": "Utah Jazz", "gamesPlayed": 81}
+    ],
+    "thirdTeam": [
+      {"name": "Jimmy Butler", "team": "Chicago Bulls", "gamesPlayed": 76},
+      {"name": "Draymond Green", "team": "Golden State Warriors", "gamesPlayed": 76},
+      {"name": "John Wall", "team": "Washington Wizards", "gamesPlayed": 78},
+      {"name": "DeMar DeRozan", "team": "Toronto Raptors", "gamesPlayed": 74},
+      {"name": "DeAndre Jordan", "team": "Los Angeles Clippers", "gamesPlayed": 81}
+    ]
+  },
+  "2016": {
+    "season": "2015-16",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 76},
+      {"name": "Kawhi Leonard", "team": "San Antonio Spurs", "gamesPlayed": 72},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 79},
+      {"name": "Russell Westbrook", "team": "Oklahoma City Thunder", "gamesPlayed": 80},
+      {"name": "DeAndre Jordan", "team": "Los Angeles Clippers", "gamesPlayed": 77}
+    ],
+    "secondTeam": [
+      {"name": "Kevin Durant", "team": "Oklahoma City Thunder", "gamesPlayed": 72},
+      {"name": "Draymond Green", "team": "Golden State Warriors", "gamesPlayed": 81},
+      {"name": "Chris Paul", "team": "Los Angeles Clippers", "gamesPlayed": 74},
+      {"name": "Damian Lillard", "team": "Portland Trail Blazers", "gamesPlayed": 75},
+      {"name": "DeMarcus Cousins", "team": "Sacramento Kings", "gamesPlayed": 65}
+    ],
+    "thirdTeam": [
+      {"name": "Paul George", "team": "Indiana Pacers", "gamesPlayed": 81},
+      {"name": "LaMarcus Aldridge", "team": "San Antonio Spurs", "gamesPlayed": 74},
+      {"name": "Klay Thompson", "team": "Golden State Warriors", "gamesPlayed": 80},
+      {"name": "Kyle Lowry", "team": "Toronto Raptors", "gamesPlayed": 77},
+      {"name": "Andre Drummond", "team": "Detroit Pistons", "gamesPlayed": 81}
+    ]
+  },
+  "2015": {
+    "season": "2014-15",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 69},
+      {"name": "Anthony Davis", "team": "New Orleans Pelicans", "gamesPlayed": 68},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 80},
+      {"name": "James Harden", "team": "Houston Rockets", "gamesPlayed": 81},
+      {"name": "Marc Gasol", "team": "Memphis Grizzlies", "gamesPlayed": 81}
+    ],
+    "secondTeam": [
+      {"name": "Blake Griffin", "team": "Los Angeles Clippers", "gamesPlayed": 67},
+      {"name": "Pau Gasol", "team": "Chicago Bulls", "gamesPlayed": 78},
+      {"name": "Russell Westbrook", "team": "Oklahoma City Thunder", "gamesPlayed": 67},
+      {"name": "Chris Paul", "team": "Los Angeles Clippers", "gamesPlayed": 82},
+      {"name": "DeAndre Jordan", "team": "Los Angeles Clippers", "gamesPlayed": 82}
+    ],
+    "thirdTeam": [
+      {"name": "LaMarcus Aldridge", "team": "Portland Trail Blazers", "gamesPlayed": 71},
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 77},
+      {"name": "Klay Thompson", "team": "Golden State Warriors", "gamesPlayed": 77},
+      {"name": "Kyrie Irving", "team": "Cleveland Cavaliers", "gamesPlayed": 75},
+      {"name": "DeMarcus Cousins", "team": "Sacramento Kings", "gamesPlayed": 59}
+    ]
+  },
+  "2014": {
+    "season": "2013-14",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Miami Heat", "gamesPlayed": 77},
+      {"name": "Kevin Durant", "team": "Oklahoma City Thunder", "gamesPlayed": 81},
+      {"name": "Chris Paul", "team": "Los Angeles Clippers", "gamesPlayed": 62},
+      {"name": "James Harden", "team": "Houston Rockets", "gamesPlayed": 73},
+      {"name": "Joakim Noah", "team": "Chicago Bulls", "gamesPlayed": 80}
+    ],
+    "secondTeam": [
+      {"name": "Blake Griffin", "team": "Los Angeles Clippers", "gamesPlayed": 80},
+      {"name": "Kevin Love", "team": "Minnesota Timberwolves", "gamesPlayed": 77},
+      {"name": "Stephen Curry", "team": "Golden State Warriors", "gamesPlayed": 78},
+      {"name": "Tony Parker", "team": "San Antonio Spurs", "gamesPlayed": 68},
+      {"name": "Dwight Howard", "team": "Houston Rockets", "gamesPlayed": 71}
+    ],
+    "thirdTeam": [
+      {"name": "Paul George", "team": "Indiana Pacers", "gamesPlayed": 80},
+      {"name": "LaMarcus Aldridge", "team": "Portland Trail Blazers", "gamesPlayed": 69},
+      {"name": "Goran Dragic", "team": "Phoenix Suns", "gamesPlayed": 76},
+      {"name": "Damian Lillard", "team": "Portland Trail Blazers", "gamesPlayed": 82},
+      {"name": "Al Jefferson", "team": "Charlotte Bobcats", "gamesPlayed": 73}
+    ]
+  },
+  "2013": {
+    "season": "2012-13",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Miami Heat", "gamesPlayed": 76},
+      {"name": "Kevin Durant", "team": "Oklahoma City Thunder", "gamesPlayed": 81},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 78},
+      {"name": "Chris Paul", "team": "Los Angeles Clippers", "gamesPlayed": 70},
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 69}
+    ],
+    "secondTeam": [
+      {"name": "Carmelo Anthony", "team": "New York Knicks", "gamesPlayed": 67},
+      {"name": "Blake Griffin", "team": "Los Angeles Clippers", "gamesPlayed": 80},
+      {"name": "Tony Parker", "team": "San Antonio Spurs", "gamesPlayed": 68},
+      {"name": "Russell Westbrook", "team": "Oklahoma City Thunder", "gamesPlayed": 82},
+      {"name": "Marc Gasol", "team": "Memphis Grizzlies", "gamesPlayed": 73}
+    ],
+    "thirdTeam": [
+      {"name": "Paul George", "team": "Indiana Pacers", "gamesPlayed": 79},
+      {"name": "LaMarcus Aldridge", "team": "Portland Trail Blazers", "gamesPlayed": 69},
+      {"name": "James Harden", "team": "Houston Rockets", "gamesPlayed": 78},
+      {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 69},
+      {"name": "Dwight Howard", "team": "Los Angeles Lakers", "gamesPlayed": 76}
+    ]
+  },
+  "2012": {
+    "season": "2011-12",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Miami Heat", "gamesPlayed": 62},
+      {"name": "Kevin Durant", "team": "Oklahoma City Thunder", "gamesPlayed": 66},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 58},
+      {"name": "Chris Paul", "team": "Los Angeles Clippers", "gamesPlayed": 60},
+      {"name": "Dwight Howard", "team": "Orlando Magic", "gamesPlayed": 54}
+    ],
+    "secondTeam": [
+      {"name": "Blake Griffin", "team": "Los Angeles Clippers", "gamesPlayed": 66},
+      {"name": "Kevin Love", "team": "Minnesota Timberwolves", "gamesPlayed": 55},
+      {"name": "Russell Westbrook", "team": "Oklahoma City Thunder", "gamesPlayed": 66},
+      {"name": "Tony Parker", "team": "San Antonio Spurs", "gamesPlayed": 60},
+      {"name": "Andrew Bynum", "team": "Los Angeles Lakers", "gamesPlayed": 60}
+    ],
+    "thirdTeam": [
+      {"name": "Carmelo Anthony", "team": "New York Knicks", "gamesPlayed": 55},
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 62},
+      {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 49},
+      {"name": "Rajon Rondo", "team": "Boston Celtics", "gamesPlayed": 53},
+      {"name": "Marc Gasol", "team": "Memphis Grizzlies", "gamesPlayed": 65}
+    ]
+  },
+  "2011": {
+    "season": "2010-11",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Miami Heat", "gamesPlayed": 79},
+      {"name": "Kevin Durant", "team": "Oklahoma City Thunder", "gamesPlayed": 78},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 82},
+      {"name": "Derrick Rose", "team": "Chicago Bulls", "gamesPlayed": 81},
+      {"name": "Dwight Howard", "team": "Orlando Magic", "gamesPlayed": 78}
+    ],
+    "secondTeam": [
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 73},
+      {"name": "Pau Gasol", "team": "Los Angeles Lakers", "gamesPlayed": 82},
+      {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 76},
+      {"name": "Russell Westbrook", "team": "Oklahoma City Thunder", "gamesPlayed": 82},
+      {"name": "Amar'e Stoudemire", "team": "New York Knicks", "gamesPlayed": 78}
+    ],
+    "thirdTeam": [
+      {"name": "Carmelo Anthony", "team": "Denver Nuggets", "gamesPlayed": 77},
+      {"name": "Zach Randolph", "team": "Memphis Grizzlies", "gamesPlayed": 75},
+      {"name": "Chris Paul", "team": "New Orleans Hornets", "gamesPlayed": 80},
+      {"name": "Manu Ginobili", "team": "San Antonio Spurs", "gamesPlayed": 80},
+      {"name": "Al Horford", "team": "Atlanta Hawks", "gamesPlayed": 77}
+    ]
+  },
+  "2010": {
+    "season": "2009-10",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 76},
+      {"name": "Kevin Durant", "team": "Oklahoma City Thunder", "gamesPlayed": 82},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 73},
+      {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 77},
+      {"name": "Dwight Howard", "team": "Orlando Magic", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Carmelo Anthony", "team": "Denver Nuggets", "gamesPlayed": 69},
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 81},
+      {"name": "Steve Nash", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Deron Williams", "team": "Utah Jazz", "gamesPlayed": 68},
+      {"name": "Amar'e Stoudemire", "team": "Phoenix Suns", "gamesPlayed": 82}
+    ],
+    "thirdTeam": [
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 78},
+      {"name": "Pau Gasol", "team": "Los Angeles Lakers", "gamesPlayed": 65},
+      {"name": "Joe Johnson", "team": "Atlanta Hawks", "gamesPlayed": 76},
+      {"name": "Brandon Roy", "team": "Portland Trail Blazers", "gamesPlayed": 65},
+      {"name": "Andrew Bogut", "team": "Milwaukee Bucks", "gamesPlayed": 69}
+    ]
+  },
+  "2009": {
+    "season": "2008-09",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 81},
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 81},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 82},
+      {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 79},
+      {"name": "Dwight Howard", "team": "Orlando Magic", "gamesPlayed": 79}
+    ],
+    "secondTeam": [
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 75},
+      {"name": "Pau Gasol", "team": "Los Angeles Lakers", "gamesPlayed": 65},
+      {"name": "Chris Paul", "team": "New Orleans Hornets", "gamesPlayed": 78},
+      {"name": "Brandon Roy", "team": "Portland Trail Blazers", "gamesPlayed": 78},
+      {"name": "Yao Ming", "team": "Houston Rockets", "gamesPlayed": 77}
+    ],
+    "thirdTeam": [
+      {"name": "Carmelo Anthony", "team": "Denver Nuggets", "gamesPlayed": 66},
+      {"name": "Paul Pierce", "team": "Boston Celtics", "gamesPlayed": 72},
+      {"name": "Tony Parker", "team": "San Antonio Spurs", "gamesPlayed": 72},
+      {"name": "Chauncey Billups", "team": "Denver Nuggets", "gamesPlayed": 79},
+      {"name": "Shaquille O'Neal", "team": "Phoenix Suns", "gamesPlayed": 75}
+    ]
+  },
+  "2008": {
+    "season": "2007-08",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 75},
+      {"name": "Kevin Garnett", "team": "Boston Celtics", "gamesPlayed": 71},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 82},
+      {"name": "Chris Paul", "team": "New Orleans Hornets", "gamesPlayed": 80},
+      {"name": "Dwight Howard", "team": "Orlando Magic", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 77},
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 78},
+      {"name": "Steve Nash", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Deron Williams", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Amar'e Stoudemire", "team": "Phoenix Suns", "gamesPlayed": 79}
+    ],
+    "thirdTeam": [
+      {"name": "Paul Pierce", "team": "Boston Celtics", "gamesPlayed": 80},
+      {"name": "Carlos Boozer", "team": "Utah Jazz", "gamesPlayed": 81},
+      {"name": "Tracy McGrady", "team": "Houston Rockets", "gamesPlayed": 66},
+      {"name": "Manu Ginobili", "team": "San Antonio Spurs", "gamesPlayed": 74},
+      {"name": "Yao Ming", "team": "Houston Rockets", "gamesPlayed": 55}
+    ]
+  },
+  "2007": {
+    "season": "2006-07",
+    "firstTeam": [
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 78},
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 80},
+      {"name": "Steve Nash", "team": "Phoenix Suns", "gamesPlayed": 76},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 77},
+      {"name": "Amar'e Stoudemire", "team": "Phoenix Suns", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 78},
+      {"name": "Chris Bosh", "team": "Toronto Raptors", "gamesPlayed": 69},
+      {"name": "Gilbert Arenas", "team": "Washington Wizards", "gamesPlayed": 74},
+      {"name": "Tracy McGrady", "team": "Houston Rockets", "gamesPlayed": 71},
+      {"name": "Yao Ming", "team": "Houston Rockets", "gamesPlayed": 48}
+    ],
+    "thirdTeam": [
+      {"name": "Carmelo Anthony", "team": "Denver Nuggets", "gamesPlayed": 65},
+      {"name": "Shawn Marion", "team": "Phoenix Suns", "gamesPlayed": 80},
+      {"name": "Chauncey Billups", "team": "Detroit Pistons", "gamesPlayed": 70},
+      {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 51},
+      {"name": "Dwight Howard", "team": "Orlando Magic", "gamesPlayed": 82}
+    ]
+  },
+  "2006": {
+    "season": "2005-06",
+    "firstTeam": [
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 79},
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 81},
+      {"name": "Steve Nash", "team": "Phoenix Suns", "gamesPlayed": 79},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 80},
+      {"name": "Shaquille O'Neal", "team": "Miami Heat", "gamesPlayed": 59}
+    ],
+    "secondTeam": [
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 80},
+      {"name": "Elton Brand", "team": "Los Angeles Clippers", "gamesPlayed": 79},
+      {"name": "Chauncey Billups", "team": "Detroit Pistons", "gamesPlayed": 81},
+      {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 75},
+      {"name": "Ben Wallace", "team": "Detroit Pistons", "gamesPlayed": 82}
+    ],
+    "thirdTeam": [
+      {"name": "Shawn Marion", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Pau Gasol", "team": "Memphis Grizzlies", "gamesPlayed": 80},
+      {"name": "Gilbert Arenas", "team": "Washington Wizards", "gamesPlayed": 80},
+      {"name": "Tony Parker", "team": "San Antonio Spurs", "gamesPlayed": 80},
+      {"name": "Yao Ming", "team": "Houston Rockets", "gamesPlayed": 57}
+    ]
+  },
+  "2005": {
+    "season": "2004-05",
+    "firstTeam": [
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 66},
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 78},
+      {"name": "Steve Nash", "team": "Phoenix Suns", "gamesPlayed": 75},
+      {"name": "Allen Iverson", "team": "Philadelphia 76ers", "gamesPlayed": 75},
+      {"name": "Shaquille O'Neal", "team": "Miami Heat", "gamesPlayed": 73}
+    ],
+    "secondTeam": [
+      {"name": "Kevin Garnett", "team": "Minnesota Timberwolves", "gamesPlayed": 82},
+      {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 80},
+      {"name": "Tracy McGrady", "team": "Houston Rockets", "gamesPlayed": 78},
+      {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 77},
+      {"name": "Amar'e Stoudemire", "team": "Phoenix Suns", "gamesPlayed": 80}
+    ],
+    "thirdTeam": [
+      {"name": "Shawn Marion", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Jermaine O'Neal", "team": "Indiana Pacers", "gamesPlayed": 44},
+      {"name": "Gilbert Arenas", "team": "Washington Wizards", "gamesPlayed": 80},
+      {"name": "Ray Allen", "team": "Seattle SuperSonics", "gamesPlayed": 78},
+      {"name": "Ben Wallace", "team": "Detroit Pistons", "gamesPlayed": 74}
+    ]
+  },
+  "2004": {
+    "season": "2003-04",
+    "firstTeam": [
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 69},
+      {"name": "Kevin Garnett", "team": "Minnesota Timberwolves", "gamesPlayed": 82},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 65},
+      {"name": "Jason Kidd", "team": "New Jersey Nets", "gamesPlayed": 67},
+      {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 67}
+    ],
+    "secondTeam": [
+      {"name": "Jermaine O'Neal", "team": "Indiana Pacers", "gamesPlayed": 78},
+      {"name": "Peja Stojakovic", "team": "Sacramento Kings", "gamesPlayed": 81},
+      {"name": "Sam Cassell", "team": "Minnesota Timberwolves", "gamesPlayed": 81},
+      {"name": "Baron Davis", "team": "New Orleans Hornets", "gamesPlayed": 67},
+      {"name": "Ben Wallace", "team": "Detroit Pistons", "gamesPlayed": 81}
+    ],
+    "thirdTeam": [
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 77},
+      {"name": "Ron Artest", "team": "Indiana Pacers", "gamesPlayed": 73},
+      {"name": "Tracy McGrady", "team": "Orlando Magic", "gamesPlayed": 67},
+      {"name": "Michael Redd", "team": "Milwaukee Bucks", "gamesPlayed": 82},
+      {"name": "Yao Ming", "team": "Houston Rockets", "gamesPlayed": 82}
+    ]
+  },
+  "2003": {
+    "season": "2002-03",
+    "firstTeam": [
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 81},
+      {"name": "Kevin Garnett", "team": "Minnesota Timberwolves", "gamesPlayed": 82},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 82},
+      {"name": "Tracy McGrady", "team": "Orlando Magic", "gamesPlayed": 75},
+      {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 67}
+    ],
+    "secondTeam": [
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 80},
+      {"name": "Chris Webber", "team": "Sacramento Kings", "gamesPlayed": 67},
+      {"name": "Jason Kidd", "team": "New Jersey Nets", "gamesPlayed": 80},
+      {"name": "Allen Iverson", "team": "Philadelphia 76ers", "gamesPlayed": 82},
+      {"name": "Ben Wallace", "team": "Detroit Pistons", "gamesPlayed": 73}
+    ],
+    "thirdTeam": [
+      {"name": "Jermaine O'Neal", "team": "Indiana Pacers", "gamesPlayed": 77},
+      {"name": "Paul Pierce", "team": "Boston Celtics", "gamesPlayed": 79},
+      {"name": "Steve Nash", "team": "Dallas Mavericks", "gamesPlayed": 82},
+      {"name": "Stephon Marbury", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Yao Ming", "team": "Houston Rockets", "gamesPlayed": 82}
+    ]
+  },
+  "2002": {
+    "season": "2001-02",
+    "firstTeam": [
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 82},
+      {"name": "Tracy McGrady", "team": "Orlando Magic", "gamesPlayed": 76},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 80},
+      {"name": "Jason Kidd", "team": "New Jersey Nets", "gamesPlayed": 82},
+      {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 67}
+    ],
+    "secondTeam": [
+      {"name": "Kevin Garnett", "team": "Minnesota Timberwolves", "gamesPlayed": 81},
+      {"name": "Chris Webber", "team": "Sacramento Kings", "gamesPlayed": 54},
+      {"name": "Allen Iverson", "team": "Philadelphia 76ers", "gamesPlayed": 60},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 76}
+    ],
+    "thirdTeam": [
+      {"name": "Jermaine O'Neal", "team": "Indiana Pacers", "gamesPlayed": 72},
+      {"name": "Paul Pierce", "team": "Boston Celtics", "gamesPlayed": 82},
+      {"name": "Steve Nash", "team": "Dallas Mavericks", "gamesPlayed": 82},
+      {"name": "Michael Jordan", "team": "Washington Wizards", "gamesPlayed": 60},
+      {"name": "Ben Wallace", "team": "Detroit Pistons", "gamesPlayed": 80}
+    ]
+  },
+  "2001": {
+    "season": "2000-01",
+    "firstTeam": [
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 82},
+      {"name": "Chris Webber", "team": "Sacramento Kings", "gamesPlayed": 70},
+      {"name": "Allen Iverson", "team": "Philadelphia 76ers", "gamesPlayed": 71},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 68},
+      {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 74}
+    ],
+    "secondTeam": [
+      {"name": "Kevin Garnett", "team": "Minnesota Timberwolves", "gamesPlayed": 81},
+      {"name": "Vince Carter", "team": "Toronto Raptors", "gamesPlayed": 75},
+      {"name": "Jason Kidd", "team": "Phoenix Suns", "gamesPlayed": 77},
+      {"name": "Tracy McGrady", "team": "Orlando Magic", "gamesPlayed": 77},
+      {"name": "Dikembe Mutombo", "team": "Atlanta Hawks", "gamesPlayed": 75}
+    ],
+    "thirdTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 81},
+      {"name": "Dirk Nowitzki", "team": "Dallas Mavericks", "gamesPlayed": 82},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 79},
+      {"name": "Ray Allen", "team": "Milwaukee Bucks", "gamesPlayed": 82},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 80}
+    ]
+  },
+  "2000": {
+    "season": "1999-00",
+    "firstTeam": [
+      {"name": "Kevin Garnett", "team": "Minnesota Timberwolves", "gamesPlayed": 81},
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 74},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 66},
+      {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 79}
+    ],
+    "secondTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Grant Hill", "team": "Detroit Pistons", "gamesPlayed": 74},
+      {"name": "Jason Kidd", "team": "Phoenix Suns", "gamesPlayed": 67},
+      {"name": "Allen Iverson", "team": "Philadelphia 76ers", "gamesPlayed": 70},
+      {"name": "Alonzo Mourning", "team": "Miami Heat", "gamesPlayed": 79}
+    ],
+    "thirdTeam": [
+      {"name": "Chris Webber", "team": "Sacramento Kings", "gamesPlayed": 75},
+      {"name": "Scottie Pippen", "team": "Portland Trail Blazers", "gamesPlayed": 82},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Eddie Jones", "team": "Charlotte Hornets", "gamesPlayed": 72},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 80}
+    ]
+  },
+  "1999": {
+    "season": "1998-99",
+    "firstTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 49},
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 50},
+      {"name": "Allen Iverson", "team": "Philadelphia 76ers", "gamesPlayed": 48},
+      {"name": "Jason Kidd", "team": "Phoenix Suns", "gamesPlayed": 50},
+      {"name": "Alonzo Mourning", "team": "Miami Heat", "gamesPlayed": 46}
+    ],
+    "secondTeam": [
+      {"name": "Grant Hill", "team": "Detroit Pistons", "gamesPlayed": 50},
+      {"name": "Chris Webber", "team": "Sacramento Kings", "gamesPlayed": 42},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 50},
+      {"name": "Tim Hardaway", "team": "Miami Heat", "gamesPlayed": 48},
+      {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 49}
+    ],
+    "thirdTeam": [
+      {"name": "Kevin Garnett", "team": "Minnesota Timberwolves", "gamesPlayed": 47},
+      {"name": "Scottie Pippen", "team": "Houston Rockets", "gamesPlayed": 50},
+      {"name": "Kobe Bryant", "team": "Los Angeles Lakers", "gamesPlayed": 50},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 50},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 50}
+    ]
+  },
+  "1998": {
+    "season": "1997-98",
+    "firstTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 81},
+      {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 82},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 60}
+    ],
+    "secondTeam": [
+      {"name": "Grant Hill", "team": "Detroit Pistons", "gamesPlayed": 81},
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 44},
+      {"name": "Tim Hardaway", "team": "Miami Heat", "gamesPlayed": 81},
+      {"name": "Rod Strickland", "team": "Washington Wizards", "gamesPlayed": 76},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 73}
+    ],
+    "thirdTeam": [
+      {"name": "Glen Rice", "team": "Charlotte Hornets", "gamesPlayed": 82},
+      {"name": "Vin Baker", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 70},
+      {"name": "Reggie Miller", "team": "Indiana Pacers", "gamesPlayed": 81},
+      {"name": "Dikembe Mutombo", "team": "Atlanta Hawks", "gamesPlayed": 82}
+    ]
+  },
+  "1997": {
+    "season": "1996-97",
+    "firstTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Grant Hill", "team": "Detroit Pistons", "gamesPlayed": 80},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Tim Hardaway", "team": "Miami Heat", "gamesPlayed": 81},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 78}
+    ],
+    "secondTeam": [
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Shawn Kemp", "team": "Seattle SuperSonics", "gamesPlayed": 81},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Patrick Ewing", "team": "New York Knicks", "gamesPlayed": 78}
+    ],
+    "thirdTeam": [
+      {"name": "Anthony Mason", "team": "Charlotte Hornets", "gamesPlayed": 73},
+      {"name": "Vin Baker", "team": "Milwaukee Bucks", "gamesPlayed": 78},
+      {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 81},
+      {"name": "Anfernee Hardaway", "team": "Orlando Magic", "gamesPlayed": 59},
+      {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 51}
+    ]
+  },
+  "1996": {
+    "season": "1995-96",
+    "firstTeam": [
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 77},
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Anfernee Hardaway", "team": "Orlando Magic", "gamesPlayed": 82},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Shawn Kemp", "team": "Seattle SuperSonics", "gamesPlayed": 79},
+      {"name": "Grant Hill", "team": "Detroit Pistons", "gamesPlayed": 80},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 81},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 72}
+    ],
+    "thirdTeam": [
+      {"name": "Charles Barkley", "team": "Phoenix Suns", "gamesPlayed": 71},
+      {"name": "Juwan Howard", "team": "Washington Bullets", "gamesPlayed": 81},
+      {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 81},
+      {"name": "Reggie Miller", "team": "Indiana Pacers", "gamesPlayed": 76},
+      {"name": "Shaquille O'Neal", "team": "Orlando Magic", "gamesPlayed": 54}
+    ]
+  },
+  "1995": {
+    "season": "1994-95",
+    "firstTeam": [
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 79},
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Anfernee Hardaway", "team": "Orlando Magic", "gamesPlayed": 77},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 81}
+    ],
+    "secondTeam": [
+      {"name": "Shawn Kemp", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Charles Barkley", "team": "Phoenix Suns", "gamesPlayed": 68},
+      {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 82},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Shaquille O'Neal", "team": "Orlando Magic", "gamesPlayed": 79}
+    ],
+    "thirdTeam": [
+      {"name": "Detlef Schrempf", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Dennis Rodman", "team": "San Antonio Spurs", "gamesPlayed": 49},
+      {"name": "Reggie Miller", "team": "Indiana Pacers", "gamesPlayed": 81},
+      {"name": "Clyde Drexler", "team": "Portland Trail Blazers", "gamesPlayed": 76},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 72}
+    ]
+  },
+  "1994": {
+    "season": "1993-94",
+    "firstTeam": [
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 72},
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Latrell Sprewell", "team": "Golden State Warriors", "gamesPlayed": 82},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 80}
+    ],
+    "secondTeam": [
+      {"name": "Shawn Kemp", "team": "Seattle SuperSonics", "gamesPlayed": 79},
+      {"name": "Charles Barkley", "team": "Phoenix Suns", "gamesPlayed": 65},
+      {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 78},
+      {"name": "Kevin Johnson", "team": "Phoenix Suns", "gamesPlayed": 67},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 80}
+    ],
+    "thirdTeam": [
+      {"name": "Derrick Coleman", "team": "New Jersey Nets", "gamesPlayed": 77},
+      {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 74},
+      {"name": "Mark Price", "team": "Cleveland Cavaliers", "gamesPlayed": 76},
+      {"name": "Gary Payton", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Shaquille O'Neal", "team": "Orlando Magic", "gamesPlayed": 81}
+    ]
+  },
+  "1993": {
+    "season": "1992-93",
+    "firstTeam": [
+      {"name": "Charles Barkley", "team": "Phoenix Suns", "gamesPlayed": 76},
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 78},
+      {"name": "Mark Price", "team": "Cleveland Cavaliers", "gamesPlayed": 75},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 81},
+      {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 71},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Joe Dumars", "team": "Detroit Pistons", "gamesPlayed": 77},
+      {"name": "Patrick Ewing", "team": "New York Knicks", "gamesPlayed": 81}
+    ],
+    "thirdTeam": [
+      {"name": "Derrick Coleman", "team": "New Jersey Nets", "gamesPlayed": 77},
+      {"name": "Larry Johnson", "team": "Charlotte Hornets", "gamesPlayed": 82},
+      {"name": "Tim Hardaway", "team": "Golden State Warriors", "gamesPlayed": 66},
+      {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 45},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 82}
+    ]
+  },
+  "1992": {
+    "season": "1991-92",
+    "firstTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 81},
+      {"name": "Chris Mullin", "team": "Golden State Warriors", "gamesPlayed": 81},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 80},
+      {"name": "Clyde Drexler", "team": "Portland Trail Blazers", "gamesPlayed": 76},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 68}
+    ],
+    "secondTeam": [
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Charles Barkley", "team": "Philadelphia 76ers", "gamesPlayed": 75},
+      {"name": "Tim Hardaway", "team": "Golden State Warriors", "gamesPlayed": 81},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Patrick Ewing", "team": "New York Knicks", "gamesPlayed": 82}
+    ],
+    "thirdTeam": [
+      {"name": "Dennis Rodman", "team": "Detroit Pistons", "gamesPlayed": 82},
+      {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 42},
+      {"name": "Kevin Johnson", "team": "Phoenix Suns", "gamesPlayed": 78},
+      {"name": "Mark Price", "team": "Cleveland Cavaliers", "gamesPlayed": 72},
+      {"name": "Brad Daugherty", "team": "Cleveland Cavaliers", "gamesPlayed": 73}
+    ]
+  },
+  "1991": {
+    "season": "1990-91",
+    "firstTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Charles Barkley", "team": "Philadelphia 76ers", "gamesPlayed": 67},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 79},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 81},
+      {"name": "Chris Mullin", "team": "Golden State Warriors", "gamesPlayed": 82},
+      {"name": "Kevin Johnson", "team": "Phoenix Suns", "gamesPlayed": 77},
+      {"name": "Clyde Drexler", "team": "Portland Trail Blazers", "gamesPlayed": 82},
+      {"name": "Patrick Ewing", "team": "New York Knicks", "gamesPlayed": 81}
+    ],
+    "thirdTeam": [
+      {"name": "James Worthy", "team": "Los Angeles Lakers", "gamesPlayed": 78},
+      {"name": "Bernard King", "team": "Washington Bullets", "gamesPlayed": 64},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Joe Dumars", "team": "Detroit Pistons", "gamesPlayed": 80},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 56}
+    ]
+  },
+  "1990": {
+    "season": "1989-90",
+    "firstTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Charles Barkley", "team": "Philadelphia 76ers", "gamesPlayed": 79},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 79},
+      {"name": "Patrick Ewing", "team": "New York Knicks", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 75},
+      {"name": "Tom Chambers", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 78},
+      {"name": "Kevin Johnson", "team": "Phoenix Suns", "gamesPlayed": 74},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 82}
+    ],
+    "thirdTeam": [
+      {"name": "James Worthy", "team": "Los Angeles Lakers", "gamesPlayed": 80},
+      {"name": "Chris Mullin", "team": "Golden State Warriors", "gamesPlayed": 78},
+      {"name": "Clyde Drexler", "team": "Portland Trail Blazers", "gamesPlayed": 73},
+      {"name": "Joe Dumars", "team": "Detroit Pistons", "gamesPlayed": 75},
+      {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 82}
+    ]
+  },
+  "1989": {
+    "season": "1988-89",
+    "firstTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 80},
+      {"name": "Charles Barkley", "team": "Philadelphia 76ers", "gamesPlayed": 79},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 81},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 77},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Tom Chambers", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Chris Mullin", "team": "Golden State Warriors", "gamesPlayed": 82},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Kevin Johnson", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Patrick Ewing", "team": "New York Knicks", "gamesPlayed": 80}
+    ],
+    "thirdTeam": [
+      {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 80},
+      {"name": "Terry Cummings", "team": "Milwaukee Bucks", "gamesPlayed": 80},
+      {"name": "Dale Ellis", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Mark Price", "team": "Cleveland Cavaliers", "gamesPlayed": 75},
+      {"name": "Robert Parish", "team": "Boston Celtics", "gamesPlayed": 80}
+    ]
+  },
+  "1988": {
+    "season": "1987-88",
+    "firstTeam": [
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 76},
+      {"name": "Charles Barkley", "team": "Philadelphia 76ers", "gamesPlayed": 80},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 72},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 79}
+    ],
+    "secondTeam": [
+      {"name": "Karl Malone", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 78},
+      {"name": "Clyde Drexler", "team": "Portland Trail Blazers", "gamesPlayed": 81},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Patrick Ewing", "team": "New York Knicks", "gamesPlayed": 82}
+    ]
+  },
+  "1987": {
+    "season": "1986-87",
+    "firstTeam": [
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 74},
+      {"name": "Kevin McHale", "team": "Boston Celtics", "gamesPlayed": 77},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 80},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 75}
+    ],
+    "secondTeam": [
+      {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 79},
+      {"name": "Charles Barkley", "team": "Philadelphia 76ers", "gamesPlayed": 68},
+      {"name": "Isiah Thomas", "team": "Detroit Pistons", "gamesPlayed": 81},
+      {"name": "Fat Lever", "team": "Denver Nuggets", "gamesPlayed": 82},
+      {"name": "Moses Malone", "team": "Washington Bullets", "gamesPlayed": 73}
+    ]
+  },
+  "1986": {
+    "season": "1985-86",
+    "firstTeam": [
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 82},
+      {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 78},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 72},
+      {"name": "Isiah Thomas", "team": "Detroit Pistons", "gamesPlayed": 77},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 79}
+    ],
+    "secondTeam": [
+      {"name": "Charles Barkley", "team": "Philadelphia 76ers", "gamesPlayed": 80},
+      {"name": "Alex English", "team": "Denver Nuggets", "gamesPlayed": 81},
+      {"name": "Sidney Moncrief", "team": "Milwaukee Bucks", "gamesPlayed": 73},
+      {"name": "Alvin Robertson", "team": "San Antonio Spurs", "gamesPlayed": 82},
+      {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 68}
+    ]
+  },
+  "1985": {
+    "season": "1984-85",
+    "firstTeam": [
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 80},
+      {"name": "Bernard King", "team": "New York Knicks", "gamesPlayed": 55},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 77},
+      {"name": "Isiah Thomas", "team": "Detroit Pistons", "gamesPlayed": 81},
+      {"name": "Moses Malone", "team": "Philadelphia 76ers", "gamesPlayed": 79}
+    ],
+    "secondTeam": [
+      {"name": "Ralph Sampson", "team": "Houston Rockets", "gamesPlayed": 82},
+      {"name": "Terry Cummings", "team": "Milwaukee Bucks", "gamesPlayed": 79},
+      {"name": "Michael Jordan", "team": "Chicago Bulls", "gamesPlayed": 82},
+      {"name": "Sidney Moncrief", "team": "Milwaukee Bucks", "gamesPlayed": 73},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 79}
+    ]
+  },
+  "1984": {
+    "season": "1983-84",
+    "firstTeam": [
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 79},
+      {"name": "Bernard King", "team": "New York Knicks", "gamesPlayed": 77},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 67},
+      {"name": "Isiah Thomas", "team": "Detroit Pistons", "gamesPlayed": 82},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 80}
+    ],
+    "secondTeam": [
+      {"name": "Julius Erving", "team": "Philadelphia 76ers", "gamesPlayed": 77},
+      {"name": "Adrian Dantley", "team": "Utah Jazz", "gamesPlayed": 79},
+      {"name": "Sidney Moncrief", "team": "Milwaukee Bucks", "gamesPlayed": 79},
+      {"name": "Jim Paxson", "team": "Portland Trail Blazers", "gamesPlayed": 81},
+      {"name": "Moses Malone", "team": "Philadelphia 76ers", "gamesPlayed": 71}
+    ]
+  },
+  "1983": {
+    "season": "1982-83",
+    "firstTeam": [
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 79},
+      {"name": "Julius Erving", "team": "Philadelphia 76ers", "gamesPlayed": 72},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 79},
+      {"name": "Sidney Moncrief", "team": "Milwaukee Bucks", "gamesPlayed": 76},
+      {"name": "Moses Malone", "team": "Philadelphia 76ers", "gamesPlayed": 78}
+    ],
+    "secondTeam": [
+      {"name": "Alex English", "team": "Denver Nuggets", "gamesPlayed": 82},
+      {"name": "Buck Williams", "team": "New Jersey Nets", "gamesPlayed": 82},
+      {"name": "George Gervin", "team": "San Antonio Spurs", "gamesPlayed": 78},
+      {"name": "Isiah Thomas", "team": "Detroit Pistons", "gamesPlayed": 81},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 79}
+    ]
+  },
+  "1982": {
+    "season": "1981-82",
+    "firstTeam": [
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 77},
+      {"name": "Julius Erving", "team": "Philadelphia 76ers", "gamesPlayed": 81},
+      {"name": "George Gervin", "team": "San Antonio Spurs", "gamesPlayed": 79},
+      {"name": "Gus Williams", "team": "Seattle SuperSonics", "gamesPlayed": 80},
+      {"name": "Moses Malone", "team": "Houston Rockets", "gamesPlayed": 81}
+    ],
+    "secondTeam": [
+      {"name": "Alex English", "team": "Denver Nuggets", "gamesPlayed": 82},
+      {"name": "Bernard King", "team": "Golden State Warriors", "gamesPlayed": 79},
+      {"name": "Magic Johnson", "team": "Los Angeles Lakers", "gamesPlayed": 78},
+      {"name": "Sidney Moncrief", "team": "Milwaukee Bucks", "gamesPlayed": 80},
+      {"name": "Robert Parish", "team": "Boston Celtics", "gamesPlayed": 80}
+    ]
+  },
+  "1981": {
+    "season": "1980-81",
+    "firstTeam": [
+      {"name": "Julius Erving", "team": "Philadelphia 76ers", "gamesPlayed": 82},
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 82},
+      {"name": "George Gervin", "team": "San Antonio Spurs", "gamesPlayed": 82},
+      {"name": "Dennis Johnson", "team": "Phoenix Suns", "gamesPlayed": 79},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 80}
+    ],
+    "secondTeam": [
+      {"name": "Marques Johnson", "team": "Milwaukee Bucks", "gamesPlayed": 80},
+      {"name": "Adrian Dantley", "team": "Utah Jazz", "gamesPlayed": 80},
+      {"name": "Otis Birdsong", "team": "Kansas City Kings", "gamesPlayed": 71},
+      {"name": "Nate Archibald", "team": "Boston Celtics", "gamesPlayed": 80},
+      {"name": "Moses Malone", "team": "Houston Rockets", "gamesPlayed": 80}
+    ]
+  },
+  "1980": {
+    "season": "1979-80",
+    "firstTeam": [
+      {"name": "Julius Erving", "team": "Philadelphia 76ers", "gamesPlayed": 78},
+      {"name": "Larry Bird", "team": "Boston Celtics", "gamesPlayed": 82},
+      {"name": "George Gervin", "team": "San Antonio Spurs", "gamesPlayed": 78},
+      {"name": "Paul Westphal", "team": "Phoenix Suns", "gamesPlayed": 82},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Dan Roundfield", "team": "Atlanta Hawks", "gamesPlayed": 81},
+      {"name": "Marques Johnson", "team": "Milwaukee Bucks", "gamesPlayed": 77},
+      {"name": "Dennis Johnson", "team": "Seattle SuperSonics", "gamesPlayed": 81},
+      {"name": "Gus Williams", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Moses Malone", "team": "Houston Rockets", "gamesPlayed": 82}
+    ]
+  },
+  "1979": {
+    "season": "1978-79",
+    "firstTeam": [
+      {"name": "Marques Johnson", "team": "Milwaukee Bucks", "gamesPlayed": 77},
+      {"name": "Elvin Hayes", "team": "Washington Bullets", "gamesPlayed": 82},
+      {"name": "George Gervin", "team": "San Antonio Spurs", "gamesPlayed": 80},
+      {"name": "Paul Westphal", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Moses Malone", "team": "Houston Rockets", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Walter Davis", "team": "Phoenix Suns", "gamesPlayed": 79},
+      {"name": "Bobby Dandridge", "team": "Washington Bullets", "gamesPlayed": 78},
+      {"name": "World B. Free", "team": "San Diego Clippers", "gamesPlayed": 78},
+      {"name": "Phil Ford", "team": "Kansas City Kings", "gamesPlayed": 79},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 80}
+    ]
+  },
+  "1978": {
+    "season": "1977-78",
+    "firstTeam": [
+      {"name": "Leonard Robinson", "team": "New Orleans Jazz", "gamesPlayed": 82},
+      {"name": "Julius Erving", "team": "Philadelphia 76ers", "gamesPlayed": 74},
+      {"name": "George Gervin", "team": "San Antonio Spurs", "gamesPlayed": 82},
+      {"name": "David Thompson", "team": "Denver Nuggets", "gamesPlayed": 80},
+      {"name": "Bill Walton", "team": "Portland Trail Blazers", "gamesPlayed": 58}
+    ],
+    "secondTeam": [
+      {"name": "Walter Davis", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Maurice Lucas", "team": "Portland Trail Blazers", "gamesPlayed": 63},
+      {"name": "Paul Westphal", "team": "Phoenix Suns", "gamesPlayed": 80},
+      {"name": "Pete Maravich", "team": "New Orleans Jazz", "gamesPlayed": 50},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 62}
+    ]
+  },
+  "1977": {
+    "season": "1976-77",
+    "firstTeam": [
+      {"name": "Elvin Hayes", "team": "Washington Bullets", "gamesPlayed": 82},
+      {"name": "David Thompson", "team": "Denver Nuggets", "gamesPlayed": 82},
+      {"name": "Pete Maravich", "team": "New Orleans Jazz", "gamesPlayed": 73},
+      {"name": "Paul Westphal", "team": "Phoenix Suns", "gamesPlayed": 81},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Julius Erving", "team": "Philadelphia 76ers", "gamesPlayed": 82},
+      {"name": "George McGinnis", "team": "Philadelphia 76ers", "gamesPlayed": 79},
+      {"name": "George Gervin", "team": "San Antonio Spurs", "gamesPlayed": 82},
+      {"name": "Jo Jo White", "team": "Boston Celtics", "gamesPlayed": 82},
+      {"name": "Bill Walton", "team": "Portland Trail Blazers", "gamesPlayed": 65}
+    ]
+  },
+  "1976": {
+    "season": "1975-76",
+    "firstTeam": [
+      {"name": "Rick Barry", "team": "Golden State Warriors", "gamesPlayed": 81},
+      {"name": "George McGinnis", "team": "Philadelphia 76ers", "gamesPlayed": 77},
+      {"name": "Nate Archibald", "team": "Kansas City Kings", "gamesPlayed": 78},
+      {"name": "Pete Maravich", "team": "New Orleans Jazz", "gamesPlayed": 62},
+      {"name": "Kareem Abdul-Jabbar", "team": "Los Angeles Lakers", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "Elvin Hayes", "team": "Washington Bullets", "gamesPlayed": 80},
+      {"name": "John Havlicek", "team": "Boston Celtics", "gamesPlayed": 76},
+      {"name": "Phil Smith", "team": "Golden State Warriors", "gamesPlayed": 82},
+      {"name": "Randy Smith", "team": "Buffalo Braves", "gamesPlayed": 82},
+      {"name": "Dave Cowens", "team": "Boston Celtics", "gamesPlayed": 78}
+    ]
+  },
+  "1975": {
+    "season": "1974-75",
+    "firstTeam": [
+      {"name": "Rick Barry", "team": "Golden State Warriors", "gamesPlayed": 80},
+      {"name": "Elvin Hayes", "team": "Washington Bullets", "gamesPlayed": 82},
+      {"name": "Nate Archibald", "team": "Kansas City-Omaha Kings", "gamesPlayed": 82},
+      {"name": "Walt Frazier", "team": "New York Knicks", "gamesPlayed": 78},
+      {"name": "Bob McAdoo", "team": "Buffalo Braves", "gamesPlayed": 82}
+    ],
+    "secondTeam": [
+      {"name": "John Havlicek", "team": "Boston Celtics", "gamesPlayed": 82},
+      {"name": "Spencer Haywood", "team": "Seattle SuperSonics", "gamesPlayed": 68},
+      {"name": "Phil Chenier", "team": "Washington Bullets", "gamesPlayed": 72},
+      {"name": "Jo Jo White", "team": "Boston Celtics", "gamesPlayed": 82},
+      {"name": "Dave Cowens", "team": "Boston Celtics", "gamesPlayed": 65}
+    ]
+  }
+}

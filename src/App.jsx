@@ -1,46 +1,14 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
+import allNbaTeams from './data/allNbaTeams.json'
+import awards from './data/awards.json'
 
 const LOW_GAMES_THRESHOLD = 65
 
 function App() {
   const [activeTab, setActiveTab] = useState('all-nba')
   const [selectedAward, setSelectedAward] = useState('mvp')
-  const [allNbaData, setAllNbaData] = useState({})
-  const [awardsData, setAwardsData] = useState({})
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(null)
 
-  useEffect(() => {
-    async function fetchData() {
-      setLoading(true)
-      setError(null)
-      try {
-        const [allNbaRes, awardsRes] = await Promise.all([
-          fetch('/api/all-nba'),
-          fetch('/api/awards')
-        ])
-
-        if (!allNbaRes.ok || !awardsRes.ok) {
-          throw new Error('Failed to fetch data')
-        }
-
-        const allNba = await allNbaRes.json()
-        const awards = await awardsRes.json()
-
-        setAllNbaData(allNba)
-        setAwardsData(awards)
-      } catch (err) {
-        setError(err.message)
-        console.error('Error fetching data:', err)
-      } finally {
-        setLoading(false)
-      }
-    }
-
-    fetchData()
-  }, [])
-
-  const years = Object.keys(allNbaData).map(Number).sort((a, b) => b - a)
+  const years = Object.keys(allNbaTeams).map(Number).sort((a, b) => b - a)
 
   const tabs = [
     { id: 'all-nba', label: 'All-NBA Teams' },
@@ -56,41 +24,13 @@ function App() {
     { id: 'finalsMvp', label: 'Finals MVP' },
   ]
 
-  if (loading) {
-    return (
-      <div className="min-h-screen bg-gray-900 text-white flex items-center justify-center">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-orange-500 mx-auto mb-4"></div>
-          <p className="text-xl text-gray-400">Loading NBA data from Basketball Reference...</p>
-        </div>
-      </div>
-    )
-  }
-
-  if (error) {
-    return (
-      <div className="min-h-screen bg-gray-900 text-white flex items-center justify-center">
-        <div className="text-center">
-          <p className="text-xl text-red-400 mb-4">Error: {error}</p>
-          <button
-            onClick={() => window.location.reload()}
-            className="bg-orange-600 hover:bg-orange-700 px-6 py-2 rounded-lg"
-          >
-            Retry
-          </button>
-        </div>
-      </div>
-    )
-  }
-
   return (
     <div className="min-h-screen bg-gray-900 text-white">
       {/* Header */}
       <header className="bg-gradient-to-r from-orange-600 to-orange-800 shadow-lg">
         <div className="max-w-7xl mx-auto px-4 py-6">
           <h1 className="text-3xl font-bold text-center">NBA History Dashboard</h1>
-          <p className="text-center text-orange-200 mt-2">50 Years of Excellence (1975-2025)</p>
-          <p className="text-center text-orange-300 text-sm mt-1">Data from Basketball-Reference.com</p>
+          <p className="text-center text-orange-200 mt-2">50 Years of Excellence (1975-2024)</p>
         </div>
       </header>
 
@@ -128,13 +68,9 @@ function App() {
       <main className="max-w-7xl mx-auto px-4 py-8">
         {activeTab === 'all-nba' && (
           <div className="space-y-6">
-            {years.length === 0 ? (
-              <p className="text-gray-400 text-center">No All-NBA data available</p>
-            ) : (
-              years.map((year) => (
-                <SeasonRow key={year} year={year} data={allNbaData[year]} />
-              ))
-            )}
+            {years.map((year) => (
+              <SeasonRow key={year} year={year} data={allNbaTeams[year]} />
+            ))}
           </div>
         )}
 
@@ -158,11 +94,7 @@ function App() {
             </div>
 
             {/* Award Display */}
-            {awardsData[selectedAward] ? (
-              <AwardTable award={awardsData[selectedAward]} />
-            ) : (
-              <p className="text-gray-400 text-center">No award data available</p>
-            )}
+            <AwardTable award={awards[selectedAward]} />
           </div>
         )}
       </main>
@@ -170,8 +102,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-800 border-t border-gray-700 mt-12">
         <div className="max-w-7xl mx-auto px-4 py-6 text-center text-gray-500">
-          <p>NBA History Dashboard - Data from Basketball-Reference.com</p>
-          <p className="text-sm mt-1">Data is cached and refreshed daily</p>
+          <p>NBA History Dashboard - Data from 1974-75 to 2023-24 seasons</p>
         </div>
       </footer>
     </div>
