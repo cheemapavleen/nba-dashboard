@@ -370,7 +370,7 @@
     ],
     "secondTeam": [
       {"name": "Tim Duncan", "team": "San Antonio Spurs", "gamesPlayed": 75},
-      {"name": "Pau Gasol", "team": "Los Angeles Lakers", "gamesPlayed": 65},
+      {"name": "Paul Pierce", "team": "Boston Celtics", "gamesPlayed": 72},
       {"name": "Chris Paul", "team": "New Orleans Hornets", "gamesPlayed": 78},
       {"name": "Brandon Roy", "team": "Portland Trail Blazers", "gamesPlayed": 78},
       {"name": "Yao Ming", "team": "Houston Rockets", "gamesPlayed": 77}
@@ -467,7 +467,7 @@
     "secondTeam": [
       {"name": "Kevin Garnett", "team": "Minnesota Timberwolves", "gamesPlayed": 82},
       {"name": "LeBron James", "team": "Cleveland Cavaliers", "gamesPlayed": 80},
-      {"name": "Tracy McGrady", "team": "Houston Rockets", "gamesPlayed": 78},
+      {"name": "Ray Allen", "team": "Seattle SuperSonics", "gamesPlayed": 78},
       {"name": "Dwyane Wade", "team": "Miami Heat", "gamesPlayed": 77},
       {"name": "Amar'e Stoudemire", "team": "Phoenix Suns", "gamesPlayed": 80}
     ],
@@ -492,7 +492,7 @@
       {"name": "Jermaine O'Neal", "team": "Indiana Pacers", "gamesPlayed": 78},
       {"name": "Peja Stojakovic", "team": "Sacramento Kings", "gamesPlayed": 81},
       {"name": "Sam Cassell", "team": "Minnesota Timberwolves", "gamesPlayed": 81},
-      {"name": "Baron Davis", "team": "New Orleans Hornets", "gamesPlayed": 67},
+      {"name": "Tracy McGrady", "team": "Orlando Magic", "gamesPlayed": 67},
       {"name": "Ben Wallace", "team": "Detroit Pistons", "gamesPlayed": 81}
     ],
     "thirdTeam": [
