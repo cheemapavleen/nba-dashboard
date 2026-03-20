@@ -593,8 +593,8 @@
     ],
     "thirdTeam": [
       {"name": "Chris Webber", "team": "Sacramento Kings", "gamesPlayed": 75},
-      {"name": "Scottie Pippen", "team": "Portland Trail Blazers", "gamesPlayed": 82},
-      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
+      {"name": "Vince Carter", "team": "Toronto Raptors", "gamesPlayed": 82},
+      {"name": "Stephon Marbury", "team": "New Jersey Nets", "gamesPlayed": 74},
       {"name": "Eddie Jones", "team": "Charlotte Hornets", "gamesPlayed": 72},
       {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 80}
     ]
@@ -641,7 +641,7 @@
     ],
     "thirdTeam": [
       {"name": "Glen Rice", "team": "Charlotte Hornets", "gamesPlayed": 82},
-      {"name": "Vin Baker", "team": "Seattle SuperSonics", "gamesPlayed": 82},
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 44},
       {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 70},
       {"name": "Reggie Miller", "team": "Indiana Pacers", "gamesPlayed": 81},
       {"name": "Dikembe Mutombo", "team": "Atlanta Hawks", "gamesPlayed": 82}
@@ -666,7 +666,7 @@
     "thirdTeam": [
       {"name": "Anthony Mason", "team": "Charlotte Hornets", "gamesPlayed": 73},
       {"name": "Vin Baker", "team": "Milwaukee Bucks", "gamesPlayed": 78},
-      {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 81},
+      {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
       {"name": "Anfernee Hardaway", "team": "Orlando Magic", "gamesPlayed": 59},
       {"name": "Shaquille O'Neal", "team": "Los Angeles Lakers", "gamesPlayed": 51}
     ]
@@ -761,9 +761,9 @@
     ],
     "thirdTeam": [
       {"name": "Derrick Coleman", "team": "New Jersey Nets", "gamesPlayed": 77},
-      {"name": "Larry Johnson", "team": "Charlotte Hornets", "gamesPlayed": 82},
+      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 81},
       {"name": "Tim Hardaway", "team": "Golden State Warriors", "gamesPlayed": 66},
-      {"name": "Mitch Richmond", "team": "Sacramento Kings", "gamesPlayed": 45},
+      {"name": "Dražen Petrović", "team": "New Jersey Nets", "gamesPlayed": 70},
       {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 82}
     ]
   },
