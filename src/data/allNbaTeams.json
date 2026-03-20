@@ -634,7 +634,7 @@
     ],
     "secondTeam": [
       {"name": "Grant Hill", "team": "Detroit Pistons", "gamesPlayed": 81},
-      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 44},
+      {"name": "Vin Baker", "team": "Seattle SuperSonics", "gamesPlayed": 82},
       {"name": "Tim Hardaway", "team": "Miami Heat", "gamesPlayed": 81},
       {"name": "Rod Strickland", "team": "Washington Wizards", "gamesPlayed": 76},
       {"name": "David Robinson", "team": "San Antonio Spurs", "gamesPlayed": 73}
@@ -753,7 +753,7 @@
       {"name": "Hakeem Olajuwon", "team": "Houston Rockets", "gamesPlayed": 82}
     ],
     "secondTeam": [
-      {"name": "Scottie Pippen", "team": "Chicago Bulls", "gamesPlayed": 81},
+      {"name": "Larry Johnson", "team": "Charlotte Hornets", "gamesPlayed": 82},
       {"name": "Dominique Wilkins", "team": "Atlanta Hawks", "gamesPlayed": 71},
       {"name": "John Stockton", "team": "Utah Jazz", "gamesPlayed": 82},
       {"name": "Joe Dumars", "team": "Detroit Pistons", "gamesPlayed": 77},
